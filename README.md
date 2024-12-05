@@ -1,11 +1,17 @@
-# My Skill Set
+  ### My Skill Set 
 
-- [![Docker](https://img.icons8.com/ios/50/000000/docker.png)](https://www.docker.com) **Docker**
-- [![Postman](https://img.icons8.com/ios/50/000000/postman-api.png)](https://www.postman.com) **Postman**
-- [![Git](https://img.icons8.com/ios/50/000000/git.png)](https://git-scm.com) **Git**
-- [![PyCharm](https://img.icons8.com/ios/50/000000/pycharm.png)](https://www.jetbrains.com/pycharm/) **PyCharm**
-- [![Python](https://img.icons8.com/ios/50/000000/python.png)](https://www.python.org) **Python**
-- [![Selenium](https://img.icons8.com/ios/50/000000/selenium.png)](https://www.selenium.dev) **Selenium**
-- [![PyTest](https://img.icons8.com/ios/50/000000/pytest.png)](https://pytest.org) **PyTest**
-- [![Allure TestOps](https://img.icons8.com/ios/50/000000/allure.png)](https://www.qameta.io/allure/) **Allure TestOps**
-
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /></a> 
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30 "/></a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="" height="30" /></a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a> 
+  <a href="https://about.gitlab.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30" height="30" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" /></a>
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="30" height="30" /></a>
+  <a href="https://www.atlassian.com/ru/software/confluence" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="30" height="30" /></a>
+  <a href="https://www.figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="bash" width="30" height="30" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" alt="pycharm logo" width="30" height="30" /></a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg"  alt="python" width="30" height="30" /></a> 
+  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30" /></a> 
+  <a href="https://pytest.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="pytest" width="30" height="30"/></a>
+  <a href="https://allure.qatools.ru/" target="_blank"> <img src="https://allurereport.org/public/img/allure-report.svg" alt="allure-testops" width="30" height="30" /></a>
+  </div>
