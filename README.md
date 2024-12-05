@@ -1,3 +1,12 @@
+### Обо мне
+
+
+> Изучаю Python.
+
+#
+<div align="center"> 
+  
+  
   ### My Skill Set 
 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /></a> 
