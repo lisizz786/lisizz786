@@ -1,13 +1,12 @@
-### About me:
+### about me
 
-
-> Изучаю Python.
+> I love testing and strive to improve every application I work with. My experience with Python helps me make testing more automated and efficient. I am not afraid of complex tasks and always look for new ways to improve product quality. My attention to detail and ability to tackle difficult problems allow me to create reliable solutions.
 
 #
 <div align="center"> 
   
   
-  ### My Skill Set: 
+  ### my skill set 
 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /></a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="" height="30" /></a> 
