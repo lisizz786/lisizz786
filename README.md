@@ -1,4 +1,5 @@
 ### about me
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.pobegus@ygmail.com)
 
 > I love testing and strive to improve every application I work with. My experience with Python helps me make testing more automated and efficient. I am not afraid of complex tasks and always look for new ways to improve product quality. My attention to detail and ability to tackle difficult problems allow me to create reliable solutions.
 
