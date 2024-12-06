@@ -1,5 +1,5 @@
 ### about me
-[![Telegram Badge](https://img.shields.io/badge/-Krotikhru-blue?style=social&logo=Telegram&logoColor=white
+[![Telegram Badge](https://img.shields.io/badge/-Krotikhru-blue?style=plastic&logo=Telegram&logoColor=white
 )](https://t.me/Krotikhru) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anna.pobegus@gmail.com)
 
 > I love testing and strive to improve every application I work with. My experience with Python helps me make testing more automated and efficient. I am not afraid of complex tasks and always look for new ways to improve product quality. My attention to detail and ability to tackle difficult problems allow me to create reliable solutions.
