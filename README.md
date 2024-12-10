@@ -1,4 +1,4 @@
-[![Telegram Badge](https://img.shields.io/badge/-Krotikhru-blue?style=flat&logo=Telegram&logoColor=white
+[![Telegram Badge](https://img.shields.io/badge/-lisizz786-blue?style=flat&logo=Telegram&logoColor=white
 )](https://t.me/lisizz786) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anna.pobegus@gmail.com)
 
 ### about me
