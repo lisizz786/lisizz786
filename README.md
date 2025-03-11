@@ -3,7 +3,7 @@
 
 ### about me
 
-> I specialize in test automation using Python, Selenium, and Pytest. Experienced with CI/CD pipelines, version control systems (Git), and Agile methodologies.
+> I specialize in test automation using Python, Selenium and Pytest. Experienced with CI/CD pipelines, version control systems (Git), and Agile methodologies
 
 #
 <div align="center"> 
