@@ -11,6 +11,19 @@
   
   ### my skill set 
 
+<style>
+  a {
+    outline: none;
+  }
+  a img {
+    border: none;
+  }
+  a:focus {
+    outline: none;
+    box-shadow: none;
+  }
+</style>
+
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" />
@@ -44,4 +57,5 @@
   <img src="https://user-images.githubusercontent.com/104057573/214548410-47d5cdb9-a9e5-416d-82a9-4e9dc3a5298f.png" title="Android Studio" alt="Android Studio" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/104057573/214549974-abd22781-5752-4951-8b8b-cc6974fc289b.png" title="VS Code" alt="VS Code" width="40" height="40" />
 </div>
+
 
