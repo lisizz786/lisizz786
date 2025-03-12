@@ -22,7 +22,8 @@
 <a href="https://pytest.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="pytest" width="30" height="30"/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /></a>
 <a href="https://www.charlesproxy.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/charlesproxy/charlesproxy-icon.svg" alt="charles" width="30" height="30" /></a>
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="30" height="30" /></a>
+<a href="https://developer.android.com/studio" target="_blank"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="30" height="30" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /></a>
 
 
