@@ -20,8 +20,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg"  alt="python" width="30" height="30" /></a> 
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30" /></a> 
 <a href="https://pytest.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="pytest" width="30" height="30"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /></a>
-<a href="https://www.charlesproxy.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/charlesproxy/charlesproxy-icon.svg" alt="charles" width="30" height="30" /></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/104057573/214549659-407136cf-da42-4450-a574-89ba3c8e24d0.png" title="MySQL" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.charlesproxy.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/104057573/214408031-f65ea4ec-396f-43d1-bb59-caee797d2395.png" title="Charles" alt="Charles" width="40" height="40"/></a>
 <a href="https://developer.android.com/studio" target="_blank"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="30" height="30" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /></a>
