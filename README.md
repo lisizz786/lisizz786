@@ -22,3 +22,7 @@
   <a href="https://pytest.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="pytest" width="30" height="30"/></a>
   <a href="https://allure.qatools.ru/" target="_blank"> <img src="https://allurereport.org/public/img/allure-report.svg" alt="allure-testops" width="30" height="30" /></a>
   </div>
+  <img src="https://user-images.githubusercontent.com/104057573/214549659-407136cf-da42-4450-a574-89ba3c8e24d0.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/104057573/214408031-f65ea4ec-396f-43d1-bb59-caee797d2395.png" title="Charles" **alt="Charles" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/104057573/214548410-47d5cdb9-a9e5-416d-82a9-4e9dc3a5298f.png" title="android_studio" **alt="android_studio" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/104057573/214549974-abd22781-5752-4951-8b8b-cc6974fc289b.png" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
